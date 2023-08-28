@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TableFragmentExample</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="hello_blank_fragmentA">Hello Blank Fragment A</string>
+    <string name="hello_blank_fragmentB">Hello Blank Fragment B</string>
+    <string name="hello_blank_fragmentC">Hello Blank Fragment C</string>
+    <string name="title_btn">Animation</string>
+</resources>
